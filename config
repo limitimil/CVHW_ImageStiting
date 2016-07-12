@@ -1,0 +1,7 @@
+recoveryType:backward
+object_in:../object_22.bmp
+object_out:result/objectKeyPoint22.jpg
+target_in:../target.bmp
+target_out:result/targetKeyPoint.jpg
+result_out:result/result22.jpg
+end:end
